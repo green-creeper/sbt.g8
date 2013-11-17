@@ -7,7 +7,7 @@ version := "0.1.0-SNAPSHOT"
 
 // description := "this project can foo a bar!"
 
-homepage := Some(url("https://github.com/$github_username$/$name;format="norm"$"))
+//homepage := Some(url("https://github.com/$github_username$/$name;format="norm"$"))
 
 startYear := Some(2013)
 

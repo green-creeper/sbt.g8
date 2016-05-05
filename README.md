@@ -18,7 +18,7 @@
 - Get the g8 template and run it:
 
 ```sh
-$ g8 ymasory/sbt
+$ g8 green-creeper/sbt
 $ cd <name-of-app>
 $ chmod u+x sbt
 $ ./sbt

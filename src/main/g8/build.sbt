@@ -9,7 +9,7 @@ version := "0.1.0-SNAPSHOT"
 
 //homepage := Some(url("https://github.com/$github_username$/$name;format="norm"$"))
 
-startYear := Some(2013)
+startYear := Some(2016)
 
 licenses := Seq(
   ("$project_license_name$", url("$project_license_url$"))
@@ -35,6 +35,8 @@ crossScalaVersions := Seq(
   "2.9.2",
   "2.9.3"
 )
+//sbt-pack 
+packAutoSettings
 
 // These options will be used for *all* versions.
 scalacOptions ++= Seq(
